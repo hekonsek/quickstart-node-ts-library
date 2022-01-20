@@ -1,9 +1,6 @@
 export class SayHello {
 
-    name: string
-
-    constructor(name: string) {
-        this.name = name;
+    constructor(public name: string) {
     }
 
     sayHello(): string {

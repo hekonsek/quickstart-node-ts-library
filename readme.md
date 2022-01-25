@@ -4,19 +4,25 @@ This is a template project for a Node library in TypeScript.
 
 ## Building
 
-To build and test your library execute:
+To initialize, build and test your library execute:
 
 ```
 npm run all
 ```
 
-To build only execute:
+To only initialize your project execute:
+
+```
+npm run init
+```
+
+To only build your project execute:
 
 ```
 npm run build
 ```
 
-To test only execute:
+To only test your project execute:
 
 ```
 npm run test
